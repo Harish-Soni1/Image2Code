@@ -2,7 +2,7 @@ from PyQt5 import QtCore, QtWidgets
 from PyQt5.QtWidgets import QFileDialog, QWidget
 from PyQt5.QtGui import QImage, QPixmap
 import cv2
-from datetime import datetime
+from datetime import datetime 
 from detectObject import *
 from PyQt5.QtWidgets import QMessageBox
 
